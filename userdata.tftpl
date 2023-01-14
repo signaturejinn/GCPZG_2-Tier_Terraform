@@ -1,0 +1,5 @@
+yum install -y git java-11-openjdk-devel.x86_64
+git clone https://github.com/ryullulala/spring-petclinic.git ~/petclinic && cd ~/petclinic
+sed -i 's/mysql:\/\/10.63.16.6/mysql:\/\/${db_endpoint}/' ~/petclinic/src/main/resources/application-mysql.properties 
+./mvnw package -DskipTests=True
+nohup java -jar target/*.jar --spring.profiles.active=mysql &
