@@ -48,6 +48,10 @@
 ## 📝 상세 내용 
 ### 📌 Infra Architecture
 ![aws terraform architecture](https://user-images.githubusercontent.com/117608997/215544478-e61a2989-b44c-4a55-9c3f-f56571a4c6d0.jpg)
+```
+IaC를 활용한 GCP 기반 2-Tier 웹 서비스 인프라 구축
+Cloud SQL 서비스를 활용한 DB 구축 및 이중화를 통한 고가용성
+```
 
 </br>
 
