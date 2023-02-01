@@ -29,7 +29,7 @@
 #### Team Collabolation Tool
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <!--Notion-->
 
-#### Architecture Draw Tool
+#### Architecture Drawing Tool
 <img src="https://img.shields.io/badge/Drawio-000000?style=for-the-badge&logo=Drawio&logoColor=white"> <!--Draw.io-->
 
 </br>
