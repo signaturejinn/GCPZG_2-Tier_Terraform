@@ -20,7 +20,7 @@
 #### OS
 <img src="https://img.shields.io/badge/Rocky Linux 9-10B981?style=for-the-badge&logo=Rocky Linux&logoColor=white"> <!--rocky linux-->
 
-### IaC
+#### IaC
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white">  <!--terraform-->
 
 #### DB
